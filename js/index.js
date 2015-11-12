@@ -11,6 +11,6 @@ $(function() {
 
         function autoResizeDiv()
         {
-            document.getElementById('main').style.height = window.innerHeight +'px';
+            document.getElementById('iscroll2').style.height = window.innerHeight +'px';
         }
 
